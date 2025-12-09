@@ -20,7 +20,7 @@ Many features are partially developed and will be updated regularly with new com
 - **ADO.NET**  
 - **SQL Server**  
 - **Repository Pattern**  
-- HTML, CSS, JavaScript  
+   
 
 ---
 
